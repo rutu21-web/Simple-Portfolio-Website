@@ -1,3 +1,9 @@
+*{
+	scroll-behavior: smooth;
+	
+}
+
+
 .dropdown-item:hover {
 	background: linear-gradient(45deg,black,darkslategrey);
 	color: white !important;
